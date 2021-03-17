@@ -170,13 +170,13 @@ Text GLabel 3250 3450 0    50   Output ~ 0
 DIR3Z
 Text GLabel 3250 3750 0    50   Output ~ 0
 ENABLE
-Text GLabel 4700 3950 2    50   Output ~ 0
+Text GLabel 3250 3850 0    50   Output ~ 0
 PWM
-Text GLabel 4700 3650 2    50   Input ~ 0
-STOP
 Text GLabel 4700 3550 2    50   Input ~ 0
-HOLD
+STOP
 Text GLabel 4700 3450 2    50   Input ~ 0
+HOLD
+Text GLabel 4700 3250 2    50   Input ~ 0
 START
 Text GLabel 5350 1900 2    50   Input ~ 0
 IN1-ESTOP
@@ -200,11 +200,11 @@ Text GLabel 4700 3150 2    50   Input ~ 0
 IN5PROBE
 Text GLabel 4700 3350 2    50   Output ~ 0
 RELAY1FLOOD
-Text GLabel 4700 3250 2    50   Output ~ 0
+Text GLabel 4700 3650 2    50   Output ~ 0
 RELAY2MIST
-Text GLabel 3250 3850 0    50   Input ~ 0
-IN2X
 Text GLabel 4700 4050 2    50   Input ~ 0
+IN2X
+Text GLabel 4700 3950 2    50   Input ~ 0
 IN3Y
 Text GLabel 4700 3850 2    50   Input ~ 0
 IN4Z
